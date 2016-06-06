@@ -29,6 +29,7 @@
   text-align: right;
 }
 
-.highlight {
-    word-wrap: normal;    
+pre {
+    word-break: break-all;
+    word-wrap: break-word;  
 }
