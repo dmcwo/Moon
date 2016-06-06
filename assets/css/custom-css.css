@@ -29,3 +29,6 @@
   text-align: right;
 }
 
+pre.highlight {
+    word-wrap: normal;    
+}
