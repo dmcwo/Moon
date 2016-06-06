@@ -1,14 +1,28 @@
 # notebook building notes
 
-#### Jekyll posts in chronological order
+### Restructuring
+
+Can prev/next navigation be selective based on post type in current framework (i.e., posts and projects are both "posts")?
+
+Home
+* Notes (using ```_posts```)
+* Presentations (using new content type? or also as ```_posts```? …?)
+* Projects
+
+Currently "projects" are also posts with:
+```
+project: true
+```
+
+Maybe start by building a new content type ```_presentations``` - would help learn how …?
+
+##### Jekyll posts in chronological order
 You can order posts chronologically too (not just reverse chronologically):
 ```
 {% for post in site.posts reversed %}
     <!-- whatever -->
 {% endfor %}
 ```
-[ ] Footnotes integration
-
 
 #### Look at the numbers in this guide. A section on guides?
 http://jmcglone.com/guides/github-pages/
@@ -139,3 +153,5 @@ pre {
 6173b8fe81171a8cf161c86c2b3d094be674c58a
 
 [x] figure out if custom css is working or not. It works.
+
+[x] Footnotes integration
