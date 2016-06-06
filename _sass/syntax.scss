@@ -12,6 +12,8 @@ pre.highlight {
 		position: relative;
 		margin: 0;
 		padding: 1em;
+		word-break: break-all;
+        word-wrap: break-word;  
 	}
 	.lineno            { padding-right: 24px; color: lighten(#49483e,50);}
 	.hll               { background-color: #49483e}
