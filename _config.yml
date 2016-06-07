@@ -9,7 +9,8 @@ logo:               'assets/img/logo.png'
 # background:         'assets/img/placeholder-big-disc.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://dmcwo.github.io/Notebook-Moon/
+# url:                http://dmcwo.github.io/Notebook-Moon/
+url:                http://127.0.0.1:4000/
 
 # Jekyll
 permalink:          /:title/
@@ -25,6 +26,14 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
+
+# Collections
+collections:
+    presentations:
+        output: true
+        permalink: /presentations/:path/
+
+
 
 # Comments
 # disqus_shortname:   disqus_username
