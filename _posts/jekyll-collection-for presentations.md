@@ -33,6 +33,43 @@ collections:
 
 *It works! More or less!!*
 
+the next challenges: Moon's navigation buttons currently send you back to the posts page. The solution is to copy the ```post.html``` layout and create a new one for ```presentations```. Then edit this bit:
+
+```
+{% if page.project %}
+                    <a class="btn zoombtn" href="{{site.url}}/projects/">
+                    {% elsif page.presentation %}
+                    {% else %}
+                    <a class="btn zoombtn" href="{{site.url}}/posts/">
+                    {% endif %}
+                        <i class="fa fa-chevron-left"></i>
+                    </a>
+```
+
+to become the simpler:
+
+```
+<a class="btn zoombtn" href="{{site.url}}/presentations/"><i class="fa fa-chevron-left"></i></a>
+```
+then be sure that each ```presentation``` file has ```presentation``` as the layout type in the frontmatter.
+
+*works!!!!!*
+
+Tags don't work yet; they appear, and link to tags page, but the tags for ```presentations``` and I'm guessing the content, isn't included when the page is built (only posts at the moment). I'll look into that later, for now, I'll just remove tags from the presentation sample content.
+
+Default ordering appears to be chronological based on the ```date:``` in the frontmatter for each post.
+
+This post explains how to use frontmatter to create other ways of sorting:
+
+https://github.com/jekyll/jekyll/issues/2515
+
+
+Other useful references:
+http://ben.balter.com/2015/02/20/jekyll-collections/
+http://jekyllrb.com/docs/collections/
+https://mademistakes.com/articles/jekyll-style-guide/
+
+
 
 
 

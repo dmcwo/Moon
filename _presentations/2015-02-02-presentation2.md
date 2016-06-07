@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: presentation
 title:  "Presentation 2"
 date:   2015-02-02 19:12:29 -0700
-excerpt: presentation 2
-tags: [testing, testing2]
+excerpt: presentation 2 excerpt
 ---
 ## Presentation 2
 
