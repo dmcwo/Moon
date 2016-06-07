@@ -67,6 +67,16 @@ Navigation!
 
 The Moon theme has a cool ```navigation.yml``` file in the ```_data``` folder. Looks like you can use it to make a list for the nav menu. Updated w/ presentations link. Cool.
 
+Next steps:
+
+* Decide what to store as YAML frontmatter. It seems like you can leverage and style this in layouts and lists, so for presentations, much can be done this way.
+* Further style ```presentation-list.html``` and ```presentation.html```` layouts - e.g., 
+	* take out "Reading time?"
+	* Left align?
+	* slide icon?
+* Maybe another, better Zotero > Markdown exporter?
+* …?
+
 
 Other useful references:
 http://ben.balter.com/2015/02/20/jekyll-collections/
