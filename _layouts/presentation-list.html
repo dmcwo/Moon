@@ -25,9 +25,24 @@ layout: compress
                     {% for presentation in site.presentations %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                            <p>{{ presentation.date | date_to_string }}</p>
                             <a class="zoombtn" href="{{ site.url }}{{ presentation.url }}">{{ presentation.title }}</a>
-                            <p>{{ presentation.excerpt }}</p>
-                            <a href="{{ site.url }}{{ presentation.url }}" class="btn zoombtn">Read More</a>
+                            <p>
+                                <a href="{{ presentation.meetingurl }}" target="_blank">{{ presentation.meetingname }}</a>
+                                {{ presentation.place | prepend: " - " | append: " | " }}
+                                {% if presentation.copresenters %}
+                                    {{ presentation.copresenters | prepend: "With: " }}
+                                {% endif %}
+                             </p>
+                             <p>
+                             {% if presentation.slideurl %}
+                                <a href="{{ presentation.slideurl }}" class="btn zoombtn"><i class="fa fa-picture-o" aria-hidden="true"></i> Slides</a>
+                             {% endif %}
+                             {% if presentation.handouturl %}
+                             <a href="{{ presentation.slideurl }}" class="btn zoombtn"><i class="fa fa-file-text-o" aria-hidden="true"></i> Handout</a>
+                             {% endif %}
+                             <a href="{{ site.url }}{{ presentation.url }}" class="btn zoombtn">Abstract</a>
+                             </p>
                         </li>
                     </ul>
                     {% endfor %}

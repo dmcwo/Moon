@@ -3,8 +3,8 @@ layout: presentation
 title: "Writing, Searching, Thinking, Learning: Cross-Training Peer Research and Writing Tutors to Maximize Student Success"
 date:   2014-05-10
 copresenters: Julia Glassman and Christine Holten
-slideurl: 
-handouturl:
+slideurl: http://www.loexconference.org/sessions.html
+handouturl: http://www.loexconference.org/sessions.html
 place: Grand Rapids, MI
 meetingname: LOEX Annual Conference
 meetingurl: http://www.loexconference.org/sessions.html
@@ -13,7 +13,7 @@ learningoutcomes:
 - Employ new strategies for collaborative relationships with their writing centers and other campus partners 
 - Develop a research methods training program for writing tutors
 - Evaluate learning space design for composition tutoring and research assistance service
-excerpt:
+excerpt: this is the excerpt
 permalink: presentations/loex-writing-searching-thinking-learning/
 ---
 additional content would go here.
