@@ -16,16 +16,41 @@ layout: compress
         <div class="wrapper animated fadeIn">
             <div class="content">
                 <div class="post-title {% if page.feature %} feature {% endif %}">
+                    <a class="btn zoombtn" href="{{site.url}}/presentations/"><i class="fa fa-chevron-left"></i> All Presentations</a>
                     <h1>{{ page.title }}</h1>
-                    <h4>{{ page.date | date_to_string }}</h4>
-                    {% if site.reading_time %}
-                    <p class="reading-time">
-                      <i class="fa fa-clock-o"></i>
-                      {% include read-time.html %}
-                    </p><!-- /.entry-reading-time -->
+                    <h2>
+                        {{ page.date | date_to_string }}
+                    </h2>
+                    <p>
+                    {% if page.meetingname %}
+                    <a href="{{ page.meetingurl }}" target="_blank">{{ page.meetingname }}</a> -
                     {% endif %}
-                    <a class="btn zoombtn" href="{{site.url}}/presentations/"><i class="fa fa-chevron-left"></i></a>
+                    {% if page.place %}
+                    {{ page.place }}
+                    {% endif %}
+                    </p>
+                    {% if page.copresenters %}
+                    <p>
+                    <em>{{ page.copresenters | prepend: "With: " }}</em>
+                    </p>
+                    {% endif %}
+                    
+                    <p>
+                    {% if page.slideurl %}
+                    <a href="{{ page.slideurl }}" class="btn zoombtn"><i class="fa fa-picture-o" aria-hidden="true"></i> Slides</a>
+                    {% endif %}
+                    {% if page.handouturl %}
+                    <a href="{{ page.handouturl }}" class="btn zoombtn"><i class="fa fa-file-text-o" aria-hidden="true"></i> Handout</a>
+                    {% endif %}
+                    </p>
                 </div>
+
+                {% if page.abstract %}
+                    <h3>Abstract</h3>
+                    <p>
+                        {{ page.abstract }}
+                    </p>
+                {% endif %}
                 {{ content }}
                 
                 <!-- prev and next with post titles -->
