@@ -63,6 +63,10 @@ This post explains how to use frontmatter to create other ways of sorting:
 
 https://github.com/jekyll/jekyll/issues/2515
 
+Navigation!
+
+The Moon theme has a cool ```navigation.yml``` file in the ```_data``` folder. Looks like you can use it to make a list for the nav menu. Updated w/ presentations link. Cool.
+
 
 Other useful references:
 http://ben.balter.com/2015/02/20/jekyll-collections/
