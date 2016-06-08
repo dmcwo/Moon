@@ -23,24 +23,25 @@ layout: compress
                     </h2>
                     <p>
                     {% if page.meetingname %}
-                    <a href="{{ page.meetingurl }}" target="_blank">{{ page.meetingname }}</a> -
+                        {{ page.meetingname | append: ". "}}
                     {% endif %}
                     {% if page.place %}
-                    {{ page.place }}
+                        {{ page.place | append: ". " }}
                     {% endif %}
                     </p>
                     {% if page.copresenters %}
-                    <p>
-                    <em>{{ page.copresenters | prepend: "With: " }}</em>
-                    </p>
+                        <p><em>{{ page.copresenters | prepend: "With: " }}</em></p>
                     {% endif %}
                     
                     <p>
                     {% if page.slideurl %}
-                    <a href="{{ page.slideurl }}" class="btn zoombtn"><i class="fa fa-picture-o" aria-hidden="true"></i> Slides</a>
+                        <a href="{{ page.slideurl }}" class="btn zoombtn"><i class="fa fa-picture-o" aria-hidden="true"></i> Slides</a>
                     {% endif %}
                     {% if page.handouturl %}
-                    <a href="{{ page.handouturl }}" class="btn zoombtn"><i class="fa fa-file-text-o" aria-hidden="true"></i> Handout</a>
+                        <a href="{{ page.handouturl }}" class="btn zoombtn"><i class="fa fa-file-text-o" aria-hidden="true"></i> Handout</a>
+                    {% endif %}
+                    {% if page.meetingurl %}
+                        <a href="{{ page.meetingurl }}" class="btn zoombtn"><i class="fa fa-calendar" aria-hidden="true"></i> Event Page</a>
                     {% endif %}
                     </p>
                 </div>
