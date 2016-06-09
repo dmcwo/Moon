@@ -82,6 +82,7 @@ Other useful references:
 http://ben.balter.com/2015/02/20/jekyll-collections/
 http://jekyllrb.com/docs/collections/
 https://mademistakes.com/articles/jekyll-style-guide/
+http://alanwsmith.com/jekyll-liquid-date-formatting-examples
 
 
 

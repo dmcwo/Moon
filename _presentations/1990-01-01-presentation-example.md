@@ -1,11 +1,11 @@
 ---
-layout: presentation
+layout:
 title: ""
-date:   2000-01-01
+date: 1990-01-01
 copresenters:
 meetingname:
-meetingurl:
-place:
+meetingurl: 
+place: 
 abstract: ""
 slideurl:
 handouturl:

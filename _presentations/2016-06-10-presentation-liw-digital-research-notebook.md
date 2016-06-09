@@ -1,7 +1,7 @@
 ---
 layout: presentation
 title: "Digital Research Notebook: A Simple Tool for Reflective Learning"
-date: 2016-6-10
+date: 2016-06-10
 copresenters: Julia Glassman
 meetingname: Library Instruction West
 meetingurl: http://liw16.sched.org/event/5yk8/short-sessions-guided-adventures-in-team-hiking-collaborations-between-librarians-and-writing-program-faculty-to-flip-the-one-shot-library-workshop-digital-research-notebook-a-simple-tool-for-reflective-learning-at-scale
