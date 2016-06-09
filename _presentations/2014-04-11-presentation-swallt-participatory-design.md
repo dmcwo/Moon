@@ -6,7 +6,7 @@ copresenters:
 meetingname: Southwest Association of Language Learning and Technology
 meetingurl: https://sites.google.com/site/swallt2014/home/conference-schedule
 place: Los Angeles, CA.
-abstract: ""
+abstract: 
 slideurl:
 handouturl:
 feature: 
