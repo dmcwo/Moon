@@ -16,22 +16,46 @@ layout: compress
         <div class="wrapper animated fadeIn">
             <div class="content">
                 <div class="post-title {% if page.feature %} feature {% endif %}">
+                    <a class="btn zoombtn" href="{{site.url}}/presentations/"><i class="fa fa-chevron-left"></i> All Presentations</a>
                     <h1>{{ page.title }}</h1>
-                    <h4>{{ page.date | date_to_string }}</h4>
-                    {% if site.reading_time %}
-                    <p class="reading-time">
-                      <i class="fa fa-clock-o"></i>
-                      {% include read-time.html %}
-                    </p><!-- /.entry-reading-time -->
+                    <h2>
+                        {% if page.hidedayindate %}
+                            {{ page.date | date: '%B, %Y' }}
+                        {% else %}
+                            {{ page.date | date: '%B %d, %Y' }}
+                        {% endif %}
+                    </h2>
+                    <p>
+                    {% if page.meetingname %}
+                        {{ page.meetingname | append: ". "}}
                     {% endif %}
-                    {% if page.project %}
-                    <a class="btn zoombtn" href="{{site.url}}/projects/">
-                    {% else %}
-                    <a class="btn zoombtn" href="{{site.url}}/posts/">
+                    {% if page.place %}
+                        {{ page.place | append: ". " }}
                     {% endif %}
-                        <i class="fa fa-chevron-left"></i>
-                    </a>
+                    </p>
+                    {% if page.copresenters %}
+                        <p><em>{{ page.copresenters | prepend: "With: " }}</em></p>
+                    {% endif %}
+                    
+                    <p>
+                    {% if page.slideurl %}
+                        <a href="{{ page.slideurl }}" class="btn zoombtn"><i class="fa fa-picture-o" aria-hidden="true"></i> Slides</a>
+                    {% endif %}
+                    {% if page.handouturl %}
+                        <a href="{{ page.handouturl }}" class="btn zoombtn"><i class="fa fa-file-text-o" aria-hidden="true"></i> Handout</a>
+                    {% endif %}
+                    {% if page.meetingurl %}
+                        <a href="{{ page.meetingurl }}" class="btn zoombtn"><i class="fa fa-calendar" aria-hidden="true"></i> Event Page</a>
+                    {% endif %}
+                    </p>
                 </div>
+
+                {% if page.abstract %}
+                    <h3>Abstract</h3>
+                    <p>
+                        {{ page.abstract }}
+                    </p>
+                {% endif %}
                 {{ content }}
                 
                 <!-- prev and next with post titles -->
