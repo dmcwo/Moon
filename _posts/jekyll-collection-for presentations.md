@@ -83,6 +83,7 @@ http://ben.balter.com/2015/02/20/jekyll-collections/
 http://jekyllrb.com/docs/collections/
 https://mademistakes.com/articles/jekyll-style-guide/
 http://alanwsmith.com/jekyll-liquid-date-formatting-examples
+http://www.fizerkhan.com/blog/posts/Working-with-upcoming-posts-in-Jekyll.html - helped figure out what to do about events in the future
 
 
 
