@@ -4,8 +4,8 @@ title: "Writing, Searching, Thinking, Learning: Cross-Training Peer Research and
 date:   2014-05-10
 feature: 
 copresenters: Julia Glassman and Christine Holten
-slideurl: http://www.loexconference.org/sessions.html
-handouturl: http://www.loexconference.org/sessions.html
+slideurl: 
+handouturl: 
 place: Grand Rapids, MI
 meetingname: LOEX Annual Conference
 meetingurl: http://www.loexconference.org/sessions.html
