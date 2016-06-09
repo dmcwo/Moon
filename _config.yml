@@ -22,6 +22,7 @@ kramdown:
   toc_levels:       1..6
   enable_coderay:   false
 mathjax:            true
+future:             true
 sass:
   sass_dir:         _sass
   style:            compressed
