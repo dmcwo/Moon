@@ -125,6 +125,14 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
 
+### Embedding a tweet w/ just a link
+
+is possible with the [jekyll-lazy-tweet-embedding](https://github.com/takuti/jekyll-lazy-tweet-embedding) plugin.
+
+https://twitter.com/dmcwo/status/78182608269352960
+
+https://twitter.com/dmcwo/status/6256934449
+
 -----
 
 Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
