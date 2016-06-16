@@ -4,9 +4,11 @@ title:  "Thresholds, maybe; concepts, yes?"
 date:   2016-06-15 17:12:29 -0700
 tags: [liw2016, acrl framework, library liaisons, curriculum mapping]
 ---
-*This note is part of [a short series of reflections on Library Instruction West 2016]()*
 
-Just when it started to seem as if debates around the [Framework](http://www.ala.org/acrl/standards/ilframework) were beginning to settle, the conversation sparked by [Andrea Baer](https://twitter.com/An_Baer)'s excellent session at LIW titled [Lofty Conversations, Grounded Teaching: Threshold Concepts, Decoding the Disciplines, and Our Pedagogical Praxis](https://liw16.sched.org/event/5yjh/lofty-conversations-grounded-teaching-threshold-concepts-decoding-the-disciplines-and-our-pedagogical-praxis) had me questioning again.
+Just when it started to seem as if debates around the [Framework](http://www.ala.org/acrl/standards/ilframework) were beginning to settle, the conversation sparked by [Andrea Baer](https://twitter.com/An_Baer)'s [excellent session](https://liw16.sched.org/event/5yjh/lofty-conversations-grounded-teaching-threshold-concepts-decoding-the-disciplines-and-our-pedagogical-praxis) at LIW [^fn-baer] had me questioning again.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/liw16?src=hash">#liw16</a>  <a href="https://twitter.com/An_Baer">@An_Baer</a>  Looking froward to seeing this come together <a href="https://t.co/E1dMcWOl2e">pic.twitter.com/E1dMcWOl2e</a></p>&mdash; margy maclibrarian (@margymaclibrary) <a href="https://twitter.com/margymaclibrary/status/741347974295343104">June 10, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The areas of concern that came up in discussion were not so much in the mold of previous *standards v. framework* conversations, but instead centered on more philosophical questions about whether or not a *threshold* is quite the right metaphor for thinking about learning. Admittedly, I hadn't thought much about the metaphor, and it was interesting to start considering questions like:
 
@@ -45,3 +47,7 @@ For me, this bears resemblance to an instructional design model, and defines a v
 * Adler-Kassner, Linda, Elizabeth A. Wardle, and Ray Land. 2015. [Naming what we know: threshold concepts of writing studies](http://ucla.worldcat.org/oclc/911593897). https://muse.jhu.edu/books/9780874219906/.
 * Pace, D., & Middendorf, J., Eds. (2004). Decoding the disciplines: Helping students learn disciplinary ways of thinking. New Directions for Teaching and Learning, 98. San Francisco: Jossey-Bass.
 * “Decoding-Disciplines.” 2016. Accessed June 16. http://citl.indiana.edu/resources_files/teaching-resources1/decoding-disciplines1/index.php.
+
+*This note is part of [a short series of reflections on Library Instruction West 2016]()*
+
+[^fn-baer]: [Lofty Conversations, Grounded Teaching: Threshold Concepts, Decoding the Disciplines, and Our Pedagogical Praxis](https://liw16.sched.org/event/5yjh/lofty-conversations-grounded-teaching-threshold-concepts-decoding-the-disciplines-and-our-pedagogical-praxis)
