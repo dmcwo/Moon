@@ -49,6 +49,6 @@ For me, this bears resemblance to an instructional design model, and defines a v
 * Pace, D., & Middendorf, J., Eds. (2004). Decoding the disciplines: Helping students learn disciplinary ways of thinking. New Directions for Teaching and Learning, 98. San Francisco: Jossey-Bass.
 * “Decoding-Disciplines.” 2016. Accessed June 16. http://citl.indiana.edu/resources_files/teaching-resources1/decoding-disciplines1/index.php.
 
-*This note is part of [a short series of reflections on Library Instruction West 2016]()*
+*This note is part of [a short series of reflections on Library Instruction West 2016](/tags/#liw2016)*
 
 [^fn-baer]: [Lofty Conversations, Grounded Teaching: Threshold Concepts, Decoding the Disciplines, and Our Pedagogical Praxis](https://liw16.sched.org/event/5yjh/lofty-conversations-grounded-teaching-threshold-concepts-decoding-the-disciplines-and-our-pedagogical-praxis)
