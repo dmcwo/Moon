@@ -9,7 +9,9 @@ Four key questions framed this [conversational panel session](https://liw16.sche
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/liw16?src=hash">#liw16</a> <a href="https://twitter.com/hashtag/critlib?src=hash">#critlib</a> You know it&#39;s engaging when you have a 90 minute 1hour session and a five person panel of four! Fabulous session! Thanks all</p>&mdash; margy maclibrarian (@margymaclibrary) <a href="https://twitter.com/margymaclibrary/status/741034226091462656">June 9, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-So true! The conversation got started with:
+So true!
+
+The conversation got started with:
 
 ### In what ways does the philosophy behind critical librarianship/#critlib complement, or run counter to, the philosophy behind FYE? #liw16
 
