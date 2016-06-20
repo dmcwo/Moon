@@ -12,7 +12,7 @@ One of the many wonderful things about Library Instruction West was getting a ch
 
 ### Happy hallways
 
-Oddly, a hallway was a highlight for me, but perhaps that shouldn't be so odd - perhaps more library hallways should get this kind of attention. I loved the big red spinning things - though do be careful if you decide to [try to sit in one](https://twitter.com/LibrarianHollyL/status/741029315567968257). I also really liked this placement of browsing collections, as well as the and booth seating study lounges along the side (with ample outlets and fancy kitchen-style countertops!).
+Oddly, a hallway was a highlight for me, but perhaps that shouldn't be so odd - perhaps more library hallways should get this kind of attention. I loved the big red spinning things - though do be careful if you decide to [try to sit in one](https://twitter.com/LibrarianHollyL/status/741029315567968257). I also really liked this placement of browsing collections, as well as the booth-style study lounges along the side (with ample outlets and fancy kitchen countertops!).
 
 <figure class="third">
   	<img src="/files/img/liw16/red-things_1080.jpg" alt="interesting red chairs">
