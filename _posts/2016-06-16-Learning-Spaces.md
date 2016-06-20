@@ -12,7 +12,7 @@ One of the many wonderful things about Library Instruction West was getting a ch
 
 ### Happy hallways
 
-Oddly, this hallway was a big highlight for me, but perhaps that shouldn't be so odd - perhaps more library hallways should get this kind of attention. I loved the big red spinning things - though do be careful if you decide to [try to sit in one](https://twitter.com/LibrarianHollyL/status/741029315567968257). I also really liked this placement of browsing collections, as well as the and booth seating study lounges along the side (with ample outlets and fancy kitchen-style countertops!).
+Oddly, a hallway was a highlight for me, but perhaps that shouldn't be so odd - perhaps more library hallways should get this kind of attention. I loved the big red spinning things - though do be careful if you decide to [try to sit in one](https://twitter.com/LibrarianHollyL/status/741029315567968257). I also really liked this placement of browsing collections, as well as the and booth seating study lounges along the side (with ample outlets and fancy kitchen-style countertops!).
 
 <figure class="third">
   	<img src="/files/img/liw16/red-things_1080.jpg" alt="interesting red chairs">
@@ -29,9 +29,7 @@ The library has [a suite of academic services](http://lib.utah.edu/services/), i
 <img src="/files/img/liw16/college-advising_1080.jpg" alt="College advising in the library">
 </figure>
 
-These chairs looked cozy, but I didn't get a chance to try them out. :-( 
-
-There were also quite a few really nice group study rooms. Many were outfitted with iMacs.
+There were plenty of cozy chairs all around, as well as ample group study space. Many of the group study rooms came outfitted with iMacs.
 
 <figure class="half">
 <img src="/files/img/liw16/cozy-chairs_1080.jpg" alt="Cozy cahirs">
@@ -46,7 +44,7 @@ As I wandered around, I found a large, open floorplan computer lab with a few su
 <img src="/files/img/liw16/linux-workstations_1080.jpg" alt="LInux workstations in the computer lab">
 </figure>
 
-and a tidy little area for 3D printing.
+a tidy little area for 3D printing.
 
 <figure class="half">
 <img src="/files/img/liw16/3d-printing-1_1080.jpg" alt="3D printing area 1">
@@ -70,6 +68,8 @@ and quite more Macaw-flying-right-over-head than I'm used to:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Rembrandt the Macaw @ <a href="https://twitter.com/hashtag/liw16?src=hash">#liw16</a>! <a href="https://t.co/YSlO2OnadI">pic.twitter.com/YSlO2OnadI</a></p>&mdash; Liz King (@liblizking) <a href="https://twitter.com/liblizking/status/741070544401928192">June 10, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+All in all, a splendidly organized conference.
 *This note is part of [a short series of reflections on Library Instruction West 2016](/tags/#liw2016)*
 
 
