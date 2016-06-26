@@ -11,5 +11,5 @@ abstract: ""
 slideurl: 
 handouturl: 
 feature: 
-permalink: presentations/example/
+permalink: presentations/short-title/
 ---

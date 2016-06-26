@@ -79,5 +79,6 @@ Well after the alotted time for the session had passed, the panelists and quite 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/liw16?src=hash">#liw16</a> <a href="https://twitter.com/margymaclibrary">@margymaclibrary</a> Encourage students to see their own lives as academic subjects, worthy of study. <a href="https://twitter.com/hashtag/critlib?src=hash">#critlib</a></p>&mdash; Lisa Hubbell (@lisahubbell) <a href="https://twitter.com/lisahubbell/status/741032100384538624">June 9, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+For even more on this session check out [this series of tweets on storify](https://storify.com/GinaKesslerLee/critlib-at-liw16).
 
 *This note is part of [a short series of reflections on Library Instruction West 2016](/tags/#liw2016)*
