@@ -5,11 +5,9 @@ date:   2016-06-25 19:12:29 -0700
 excerpt: 
 tags: [tinkering, presentations, jekyll, Drupal]
 ---
-I'll probably always be a big fan of [Drupal](http://drupal.org). I absolutely loved working with Drupal to create platforms for communities to build and share knowledge together. But for a small, personal site like this one, it feels like a bit much. As [others have said](https://www.sitepoint.com/wordpress-vs-jekyll-might-want-make-switch/), running a server and a database, and keeping up with all the associated updates and patches, begins to feel like overhead, and for me, ultimately ends up becoming an excuse to not actually write anything! That said, running something in a hosted WordPress environment doesn't give adequate opportunities to tinker with things under the hood. Lately, I've felt like [Jekyll](jekyllrb.com) comes to the rescue providing just the right balance of tinkering-time and a focus on content.
+I'll probably always be a big fan of [Drupal](http://drupal.org). I absolutely loved working with Drupal to create platforms for communities to build and share knowledge together. But for a small, personal site like this one, it feels like a bit much. As [others have said](https://www.sitepoint.com/wordpress-vs-jekyll-might-want-make-switch/), running a server and a database, and keeping up with all the associated updates and patches, begins to feel like overhead, and for me, ultimately ends up becoming an excuse to not actually write anything! That said, running something in a hosted WordPress environment doesn't give adequate opportunities to tinker with things under the hood. So lately, I've felt like [Jekyll](jekyllrb.com) comes to the rescue by providing just the right balance of tinkering-time and a focus on content. As if I had any lingering doubts, I recently discovered that [Jekyll's collections](http://jekyllrb.com/docs/collections/) function quite a bit like Drupal's content types + views framework. In other words, *you can make Drupal-like content types in Jekyll*. Brilliant.
 
-Even better, I recently discovered that [Jekyll's collections](http://jekyllrb.com/docs/collections/) function quite a bit like Drupal's content types + views framework. In other words, *you can make Drupal-like content types in Jekyll*. Brilliant.
-
-To get started, I read through [Ben Balter's splendid tutorial on Jekyll collections](http://ben.balter.com/2015/02/20/jekyll-collections/). Highly recommended if you're looking to get started. 
+To get started learning how this works, I read through [Ben Balter's splendid tutorial on Jekyll collections](http://ben.balter.com/2015/02/20/jekyll-collections/). Consider it essential reading to get your footing with jekyll collections.
 
 Next up, I decided to try to build a *presentations* collection to store and display information about professional conference presentations.
 
@@ -50,24 +48,7 @@ excerpt: "A List of Presentations"
 ---
 ```
 
-* Next, I copied ```layouts/post-list.html``` to ```layouts/presentation-list.html```and then adapted for the ```presentations``` collection. It is a rather long file, so [take a look to get the full story](https://github.com/dmcwo/Notebook-Moon/blob/gh-pages/_layouts/presentation-list.html), but here's the most relevant part:
-
-
-```
-{% for presentation in site.presentations reversed %}
-	<h2><a href="{{ site.url }}{{ presentation.url }}">{{ presentation.title }}</a></h2>
-	<p>
-		{% if presentation.hidedayindate %}
-			{{ presentation.date | date: '%B, %Y' | append: ". " }}
-		{% else %}
-			{{ presentation.date | date: '%B %d, %Y' | append: ". "}}
-		{% endif %} 
-		{% if presentation.meetingname %}
-			{{ presentation.meetingname | append: ". " }}
-		{% endif %}
-		...
-{% endfor %}
-```
+* Next, I copied ```layouts/post-list.html``` to ```layouts/presentation-list.html```and then adapted for the ```presentations``` collection. It is a rather long file, so [take a look to get the full story](https://github.com/dmcwo/Notebook-Moon/blob/gh-pages/_layouts/presentation-list.html).
 
 The basic idea here is to look through each ```.md``` file in the ```_presentations``` folder, and then display the metadata defined in the front matter, formatting w/ html/css however you like. It was helpful for me to add the ```hidedayindate``` variable to the front matter, because for some of my presentations I only had the day and month recorded. 
 
