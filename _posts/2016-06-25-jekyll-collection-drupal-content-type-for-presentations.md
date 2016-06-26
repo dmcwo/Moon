@@ -15,8 +15,9 @@ Here's a basic outline of how I approached this:
 
 ### Initial content and metadata
 
-* Created a ```_presentations``` directory.  This directory will function just like Jekyll's standard ```_posts``` directory, in that it will hold markdown files describing each presentation. 
-* Took a look at how [Zotero](http://zotero.org) handles presentations to come up with an initial set of metadata for each presentation. This metadata gets stored in the [front matter](https://jekyllrb.com/docs/frontmatter/) in each presentation's markdown file. Each of the lines in the front matter functions a bit like a simple *field* in a Drupal content type. Here's [an example](http://github.com/dmcwo/Notebook-Moon/_presentations/2000-09-22-presentation-example.md):
+First I created a ```_presentations``` directory.  This directory will function just like Jekyll's standard ```_posts``` directory, in that it will hold markdown files describing each presentation. 
+
+Then, I took a look at how [Zotero](http://zotero.org) handles presentations to come up with an initial set of metadata for each presentation. This metadata gets stored in the [front matter](https://jekyllrb.com/docs/frontmatter/) in each presentation's markdown file. Each of the lines in the front matter functions a bit like a simple *field* in a Drupal content type. Here's [an example](http://github.com/dmcwo/Notebook-Moon/_presentations/2000-09-22-presentation-example.md):
 
 ```
 ---
@@ -35,10 +36,11 @@ permalink: presentations/short-title/
 ---
 ```
 
-* Next, I created [a few markdown files](https://github.com/dmcwo/Notebook-Moon/tree/gh-pages/_presentations) in the ```_presentations``` folder following this format. 
+Next, I created [a few markdown files](https://github.com/dmcwo/Notebook-Moon/tree/gh-pages/_presentations) in the ```_presentations``` folder following this format. 
 
 ### Set up a list/overview page
-* Then, I created a ```presentations``` directory to hold an ```index.html``` file. There's not much to this file. It is pretty much just going to refer to a new Jekyll ```layout``` called ```presentation-list``` that we will define in a bit.
+
+The next step was to create a ```presentations``` directory and an ```index.html``` file. There's not much to this file. It is pretty much just going to refer to a new Jekyll ```layout``` called ```presentation-list``` that we will define in a bit.
 
 ```
 ---
@@ -48,7 +50,7 @@ excerpt: "A List of Presentations"
 ---
 ```
 
-* Next, I copied ```layouts/post-list.html``` to ```layouts/presentation-list.html```and then adapted for the ```presentations``` collection. It is a rather long file, so [take a look to get the full story](https://github.com/dmcwo/Notebook-Moon/blob/gh-pages/_layouts/presentation-list.html).
+Then, I copied ```layouts/post-list.html``` to ```layouts/presentation-list.html```and then adapted for the ```presentations``` collection. It is a rather long file, so [take a look to get the full story](https://github.com/dmcwo/Notebook-Moon/blob/gh-pages/_layouts/presentation-list.html).
 
 The basic idea here is to look through each ```.md``` file in the ```_presentations``` folder, and then display the metadata defined in the front matter, formatting w/ html/css however you like. It was helpful for me to add the ```hidedayindate``` variable to the front matter, because for some of my presentations I only had the day and month recorded. 
 
@@ -56,7 +58,7 @@ There's a series of ```if``` statements that display things like links to handou
 
 ### Telling Jekyll about the collection
 
-* Next up, I added the following to ```config.yml```
+Next up, I added the following to ```config.yml```
 
 ```
 # Collections
