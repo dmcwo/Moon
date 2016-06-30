@@ -12,6 +12,13 @@ handouturl: http://j.mp/my-notebook
 feature: http://dmcwo.com/files/img/liw16/liw-research-notebook.jpg
 permalink: presentations/liw-digital-research-notebook/
 ---
+### Research Notebook Templates
+* General / Introductory Research Notebook - [http://j.mp/my-notebook](http://j.mp/my-notebook)
+* Honors 101i Research Notebook - [http://j.mp/101i-notebook](http://j.mp/101i-notebook) 
+
+### Online Tutorials
+* [UCLA Library Research Tutorials YouTube channel](https://www.youtube.com/playlist?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ)
+
 ### Twitter Feedback
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Totally going to try out <a href="https://twitter.com/dmcwo">@dmcwo</a> and <a href="https://twitter.com/juliaglassman">@juliaglassman</a> &#39;s research notebooks for first-year writing. So many great ideas at <a href="https://twitter.com/hashtag/liw16?src=hash">#liw16</a></p>&mdash; Dani Brecher Cook (@danibcook) <a href="https://twitter.com/danibcook/status/741326937021259776">June 10, 2016</a></blockquote>
