@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Doug's CV
 permalink: /cv/
 ---
 [Doug Worsham](http://twitter.com/dmcwo)'s CV
