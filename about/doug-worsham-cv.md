@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Doug's CV
-permalink: /cv/
+title: Doug Worsham's Curriculum Vitae
+permalink: /about/cv/
 ---
-[Doug Worsham](http://twitter.com/dmcwo)'s CV
-
-
 ## Education
 
 * M.A. English - Teaching English to Speakers of Other Languages (MA-TESOL). San Francisco State University. 2002.
@@ -72,9 +69,9 @@ permalink: /cv/
 
 ## Conference Presentations 
 
-* [Breaking It Down and Climbing Back Up: Learning Theories and Approaches to Instruction](http://liw16.sched.org/event/5yjR/breaking-it-down-and-climbing-back-up-learning-theories-and-approaches-to-instruction). Presented at Library Instruction West in Salt Lake City, UT on June 10, 2016 with Erica DeFrain, Julia Glassman, and Nicole Pagowsky. [![Slides]({% include icon-slides.md %})](https://docs.google.com/presentation/d/1RDFzcVYk9qcSMCTZZ5hLIhAL0HBgpV7jud64T7Qgkoc/edit?usp=sharing)
-* [Digital Research Notebook: A Simple Tool for Reflective Learning](http://liw16.sched.org/event/5yk8/short-sessions-guided-adventures-in-team-hiking-collaborations-between-librarians-and-writing-program-faculty-to-flip-the-one-shot-library-workshop-digital-research-notebook-a-simple-tool-for-reflective-learning-at-scale). Presented at Library Instruction West in Salt Lake City, UT on June 10, 2016 with Julia Glassman. [![Slides]({% include icon-slides.md %})](https://docs.google.com/presentation/d/1lE_9dN0LFFpUhadSXaBgfdoN2aDBPnekgbwyfOsEjT8/edit?usp=sharing)
-* [Participatory Design & Learning Space Evaluation](http://www.iallt.org/page-1843136). Presented at International Association for Language Learning & Technology Webinar Series in Online Webinar on March 17, 2016. [![Slides]({% include icon-slides.md %})](http://www.slideshare.net/dmcwo/participatory-design-learning-space-evaluation)
+* [Breaking It Down and Climbing Back Up: Learning Theories and Approaches to Instruction](http://liw16.sched.org/event/5yjR/breaking-it-down-and-climbing-back-up-learning-theories-and-approaches-to-instruction). Presented at Library Instruction West in Salt Lake City, UT on June 10, 2016 with Erica DeFrain, Julia Glassman, and Nicole Pagowsky. [Slides](https://docs.google.com/presentation/d/1RDFzcVYk9qcSMCTZZ5hLIhAL0HBgpV7jud64T7Qgkoc/edit?usp=sharing)
+* [Digital Research Notebook: A Simple Tool for Reflective Learning](http://liw16.sched.org/event/5yk8/short-sessions-guided-adventures-in-team-hiking-collaborations-between-librarians-and-writing-program-faculty-to-flip-the-one-shot-library-workshop-digital-research-notebook-a-simple-tool-for-reflective-learning-at-scale). Presented at Library Instruction West in Salt Lake City, UT on June 10, 2016 with Julia Glassman. [Slides](https://docs.google.com/presentation/d/1lE_9dN0LFFpUhadSXaBgfdoN2aDBPnekgbwyfOsEjT8/edit?usp=sharing)
+* [Participatory Design & Learning Space Evaluation](http://www.iallt.org/page-1843136). Presented at International Association for Language Learning & Technology Webinar Series in Online Webinar on March 17, 2016. [Slides](http://www.slideshare.net/dmcwo/participatory-design-learning-space-evaluation)
 * [Data, Assessment, and Participatory Design: Rethinking Information Literacy, Spaces, and Services in Two Academic Libraries](http://lj.libraryjournal.com/2014/11/webcasts/data-assessment-and-participatory-design-rethinking-information-literacy-spaces-and-services-in-two-academic-libraries/). Presented at Library Journal Webinar Series on December 10, 2014 with Char Booth and Sarah Lower.
 * [Writing, Searching, Thinking, Learning: Cross-Training Peer Research and Writing Tutors to Maximize Student Success](http://www.loexconference.org/sessions.html). Presented at LOEX Annual Conference in Grand Rapids, MI on May 10, 2014 with Julia Glassman and Christine Holten.
 * [Participatory Design: Insights, Ideabox, Action Plan](https://sites.google.com/site/swallt2014/home/conference-schedule). Presented at Southwest Association of Language Learning and Technology in Los Angeles, CA on April 11, 2014.
