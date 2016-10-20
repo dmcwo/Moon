@@ -27,12 +27,14 @@ permalink: /about/cv/
 
 #### Teaching & Learning Services Coordinator. 2012-present.
 
-* Lead enterprise-wide projects designed to improve instructional services, assessment, and the library user experience for all learners and researchers at UCLA.
-* Foster community-based leadership for library instructional services.
-* Redesign library spaces and services, including the UCLA Library Inquiry Labs.
-* Provide faculty, teaching assistant, and library staff development training sessions and workshops on research and writing assignment design and instructional approaches.
+* Lead enterprise-wide projects designed to improve research and instructional services, assessment practices, and the library user experience for all learners and researchers at UCLA.
+* Provide strategic leadership and planning, most recently through the collaborative development of the UCLA Library Strategic Plan for Teaching & Learning.
+* Provide vision, direction, and supervision for online learning efforts, with the goal of creating more sustainable approaches to information literacy and research skills instruction at the scale of the research institution.
+* Redesign library spaces and services, including the UCLA Library Inquiry Labs and the Powell Library research assistance service model.
+* Consult with faculty, teaching assistants, and library staff on research and writing assignment design and instructional approaches.
+* Teach research and information literacy skills in full-length courses and targetted instructional engagements through face-to-face, hyrbid, and online approaches.
 
-<!-- website redesign, Strategic Planning, teaching, outreach and FYE, online learning, -->
+<!-- website redesign, Strategic Planning, teaching, outreach and FYE, online learning, Foster community-based leadership for library instructional services. -->
 
 ### L&S Learning Support Services, University of Wisconsin - Madison.
 
@@ -66,11 +68,6 @@ permalink: /about/cv/
 
 * Taught high-intermediate academic reading and writing, an integrated skills course for beginners as well as English for the World Wide Web and Grammar for Written Expression.
 
-
-## Conference Presentations 
-
-{% include presentation-list-cv.html %}
-
 ## Community Building, Committee Service, Projects, and Strategic Leadership
 
 ### Association of College and Research Libraries (ACRL)
@@ -86,6 +83,7 @@ permalink: /about/cv/
 * Hiring Committee. Director, Undergraduate Research Center, Humanities, Arts, and Social Sciences. Summer 2013.
 
 ### UCLA Library
+* Hiring Committee. Lead for Emerging Literacies, UCLA Library. Chair. March 2016 - July 2016.
 * Strategic Planning Steering Committee. Member. May 2015 - March 2016
 * Strategic Planning - Teaching & Learning Working Group. Lead. June 2015 - March 2016.
 * Teaching & Learning Services Leadership Group. Chair. May 2014-August 2016.
@@ -99,7 +97,7 @@ permalink: /about/cv/
 * Topics in Teaching & Learning Workshop Series. Lead. February 2013 - March 2016.
 * OPERATE-UP (Online Presence Enhancements and Refinements Action Team - Unit Priorities Task Force). Chair. December 2012 – February 2013.
 * OPERATE (Online Presence Enhancements and Refinements Action Team). November 2012 – November, 2014.
-* Hiring Committee. CLICC/DIIT Programmer/Analyst. October, 2012 - February 2013.
+* Hiring Committee. CLICC/DIIT Programmer/Analyst. Member. October, 2012 - February 2013.
 * Public Services Council. September 2012 – present.
 * Powell Technology Project Team (Digital Signage and Exhibits). September 2012 – March 2013.
 
@@ -122,6 +120,10 @@ An introduction to the research process in the digital age, offering opportuniti
 ### Digital Humanities 199/299: Directed Research & Special Projects in Digital Humanities – Mapping Cultural Los Angeles. Co-taught with Kelly Miller. Spring 2013.
 
 In this Digital Humanities capstone course, students worked collaboratively to create a prototype for the interactive online web presence for the Lyrical Map of the Concept of Los Angeles and present their work and learning at the Digital Humanities Capstone Showcase. (See Appendix A).
+
+## Conference Presentations 
+
+{% include presentation-list-cv.html %}
 
 ## Selected workshops Taught
 
