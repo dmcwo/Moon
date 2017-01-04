@@ -25,9 +25,10 @@ permalink: /about/cv/
 
 ### UCLA Library
 
-#### Teaching & Learning Services Coordinator. 2012-present.
+#### Lead for Teaching & Learning. 2016-present.
+#### Teaching & Learning Services Coordinator. 2012-2016.
 
-* Lead enterprise-wide projects designed to improve research and instructional services, assessment practices, and the library user experience for all learners and researchers at UCLA.
+* Lead enterprise-wide projects designed to improve instructional services, assessment tools, and the library user experience for all learners and researchers at UCLA.
 * Provide strategic leadership and planning, most recently through the collaborative development of the UCLA Library Strategic Plan for Teaching & Learning.
 * Provide vision, direction, and supervision for online learning efforts, with the goal of creating more sustainable approaches to information literacy and research skills instruction at the scale of the research institution.
 * Redesign library spaces and services, including the UCLA Library Inquiry Labs and the Powell Library research assistance service model.
