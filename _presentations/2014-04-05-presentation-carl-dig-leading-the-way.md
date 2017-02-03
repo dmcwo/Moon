@@ -2,7 +2,7 @@
 layout: presentation
 title: "CARL-DIG: Leading the Way: Innovative Reference Models"
 date: 2014-04-05
-copresenters: 
+presenters: Doug Worsham
 meetingname: California Academic & Research Libraries Association
 meetingurl: http://carl-conference.org/sessions/153
 place: San Jose, CA
