@@ -2,7 +2,7 @@
 layout: presentation
 title: "Data, Assessment, and Participatory Design: Rethinking Information Literacy, Spaces, and Services in Two Academic Libraries"
 date: 2014-12-10
-copresenters: Char Booth and Sarah Lower
+presenters: "Char Booth, Sarah Lower, and Doug Worsham"
 place: Online
 meetingname: Library Journal Webinar Series
 meetingurl: http://lj.libraryjournal.com/2014/11/webcasts/data-assessment-and-participatory-design-rethinking-information-literacy-spaces-and-services-in-two-academic-libraries/
