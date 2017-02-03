@@ -2,7 +2,7 @@
 layout: presentation
 title: "Breaking It Down and Climbing Back Up: Learning Theories and Approaches to Instruction"
 date: 2016-06-10
-copresenters: Erica DeFrain, Julia Glassman, and Nicole Pagowsky
+presenters: "Erica DeFrain, Julia Glassman, Nicole Pagowsky, and Doug Worsham"
 meetingname: Library Instruction West
 meetingurl: http://liw16.sched.org/event/5yjR/breaking-it-down-and-climbing-back-up-learning-theories-and-approaches-to-instruction
 place: Salt Lake City, UT
