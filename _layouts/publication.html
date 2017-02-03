@@ -1,0 +1,78 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+<head>
+    {% include head.html %}
+</head>
+<body>
+    {% include nav.html %}
+    <!-- Header -->
+    <header class="header" role="banner">
+        <div class="wrapper animated fadeIn">
+            <div class="content">
+                <div class="breadcrumbs">
+                        <a class="" href="{{site.url}}"> {{site.home_icon}} home</a> / <a class="" href="{{site.url}}/publications/">{{site.publications_icon}} publications</a> /
+                    </div>
+                <div class="post-title {% if page.feature %} feature {% endif %}">
+                    <h1>{{ page.title }}</h1>
+                    <h2>
+                        {% if page.hidedayindate %}
+                            {{ page.date | date: '%B, %Y' }}
+                        {% else %}
+                            {{ page.date | date: '%B %d, %Y' }}
+                        {% endif %}
+                    </h2>
+                    <p>
+                    {% if page.pubname %}
+                        {{ page.meetingname | append: ". "}}
+                    {% endif %}
+                    {% if page.volume %}
+                        {{ page.place | append: ". " }}
+                    {% endif %}
+                    </p>
+                    {% if page.authors %}
+                        <p><em>{{ page.copresenters | prepend: "With: " }}</em></p>
+                    {% endif %}
+                    
+                    <p>
+                    {% if page.doi %}
+                        <a href="{{ page.slideurl }}" class="btn zoombtn"><i class="fa fa-link" aria-hidden="true"></i> Permalink/DOI</a>
+                    {% endif %}
+                    </p>
+                </div>
+
+                {% if page.abstract %}
+                    <h3>Abstract</h3>
+                    <p>
+                        {{ page.abstract }}
+                    </p>
+                {% endif %}
+                {{ content }}
+                
+                <div class="entry-meta">
+                    {% include meta.html %}
+                </div>
+                <div>
+                    {% include prev-next-nav.html %}
+                </div>
+                <center>
+                    <p><a class="btn zoombtn" href="{{site.url}}/publications/">publications</a></p>
+                    <a class="btn zoombtn" href="{{site.url}}">
+                <i class="fa fa-home"></i>
+                </center>
+            </div>
+        </div>
+        {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
+    </header>
+    {% include scripts.html %}
+    {% if site.mathjax == true %}
+    <!-- MathJax -->
+    <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    {% endif %}
+</body>
+</html>
