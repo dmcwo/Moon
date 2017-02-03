@@ -10,27 +10,20 @@
                                 {{ publication.date | date: '%B %d, %Y' | append: ". "}}
                 {% endif %}
 
-                {% if publication.meetingname %}
-                                {{ publication.meetingname | append: ". " }}
+                {% if publication.pubname %}
+                                {{ publication.pubname | append: ". " }}
                 {% endif %}
-                            {% if publication.place %}
-                                {{ publication.place | append: ". " }}
+                            {% if publication.volume %}
+                                {{ publication.volume | append: ". " }}
                 {% endif %}
-                {% if publication.copresenters %}
-                                {{ publication.copresenters | prepend: "With: " | append: "."}}
+                {% if publication.authors %}
+                                {{ publication.authors | append: "."}}
                 {% endif %}
                 </p>
                 <p>
-                             {% if publication.slideurl %}
-                                <a href="{{ publication.slideurl }}" class="btn zoombtn"><i class="fa fa-picture-o" aria-hidden="true"></i> Slides</a>
+                             {% if publication.doi %}
+                                <a href="{{ publication.doi }}" class="btn zoombtn"><i class="fa fa-link" aria-hidden="true"></i> Permalink/DOI</a>
                              {% endif %}
-                             {% if publication.handouturl %}
-                             <a href="{{ publication.handouturl }}" class="btn zoombtn"><i class="fa fa-file-text-o" aria-hidden="true"></i> Handout</a>
-                             {% endif %}
-                             {% if publication.meetingurl %}
-                                <a href="{{ publication.meetingurl }}" class="btn zoombtn"><i class="fa fa-calendar" aria-hidden="true"></i> Event Page</a>
-                             {% endif %}
-                             <a href="{{ site.url }}{{ publication.url }}" class="btn zoombtn">More information ></a>
                 </p>
             </li>
         </ul>
