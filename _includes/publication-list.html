@@ -2,7 +2,7 @@
     {% for publication in site.publications reversed %}
         <ul>
             <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                <a class="zoombtn" href="{{ site.url }}{{ publication.url }}">{{ publication.title }}</a>
+                <!--<a class="zoombtn" href="{{ site.url }}{{ publication.url }}">{{ publication.title }}</a>-->
                 <p>
                 {% if publication.authors %}
                        {{ publication.authors | append: "."}}
@@ -12,7 +12,11 @@
                     {{ publication.date | date: '%Y' | prepend: "(" | append: "). " }}
                 {% endif %}
 
-                <a href="{{ site.url }}{{ publication.url }}">{{ publication.title }}</a>. 
+                {% if publication.doi %}
+                    <a href="{{ publication.doi }}" target="_blank">{{ publication.title }}</a>. 
+                {% else %}
+                    <a href="{{ site.url }}{{ publication.url }}">{{ publication.title }}</a>.
+                {% endif %}
 
                 {% if publication.pubname %}
                                 {{ publication.pubname | append: ". " }}
