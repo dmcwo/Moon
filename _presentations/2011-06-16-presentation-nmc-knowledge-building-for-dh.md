@@ -2,7 +2,7 @@
 layout: presentation
 title: "Knowledge Building for the Digital Humanities"
 date: 2011-06-16
-copresenters: Chad Shorter and Todd Goddard
+presenters: "Chad Shorter, Todd Goddard, and Doug Worsham"
 meetingname: New Media Consortium Summer Conference
 meetingurl: http://www.nmc.org/pdf/2011/2011_NMC_Summer_Conference_Program.pdf
 place: Madison, WI
