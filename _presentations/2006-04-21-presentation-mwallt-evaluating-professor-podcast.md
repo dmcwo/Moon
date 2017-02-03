@@ -2,7 +2,7 @@
 layout: presentation
 title: "Evaluating Professor Podcast"
 date: 2006-04-21
-copresenters: Ron Cramer
+presenters: Ron Cramer and Doug Worsham
 meetingname: Midwest Association of Language Learning and Technology
 meetingurl: 
 place: La Crosse, WI
