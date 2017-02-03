@@ -2,7 +2,7 @@
 layout: presentation
 title: "Drupal Starter-Kit: Intro to Drupal Content and Views"
 date: 2012-09-04
-copresenters: 
+presenters: Doug Worsham
 meetingname: THATCamp Southern California
 place: CSU Fullerton
 meetingurl: http://socal2012.thatcamp.org/workshops/
