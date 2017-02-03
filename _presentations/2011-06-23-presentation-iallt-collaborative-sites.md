@@ -2,7 +2,7 @@
 layout: presentation
 title: "Collaborative Sites for Language, Literature, and Culture"
 date: 2011-06-23
-copresenters: 
+presenters: Doug Worsham
 meetingname: International Association for Language Learning Technology
 meetingurl: https://www.iallt.org/thursday_june_23
 place: Irvine, CA
