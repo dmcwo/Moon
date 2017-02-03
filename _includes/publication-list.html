@@ -5,7 +5,7 @@
                 <!--<a class="zoombtn" href="{{ site.url }}{{ publication.url }}">{{ publication.title }}</a>-->
                 <p>
                 {% if publication.authors-apa %}
-                       {{ publication.authors-apa | append: "."}}
+                       {{ publication.authors-apa }}
                     {% elsif publication.authors %}
                         {{ publication.authors | append: "."}}
                 {% endif %}
