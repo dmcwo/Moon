@@ -17,7 +17,7 @@
                                 {{ presentation.place | append: ". " }}
                 {% endif %}
                 {% if presentation.copresenters %}
-                                {{ presentation.copresenters | prepend: "With: " | append: "."}}
+                                {{ presentation.presenters | append: "."}}
                 {% endif %}
                 </p>
                 <p>
