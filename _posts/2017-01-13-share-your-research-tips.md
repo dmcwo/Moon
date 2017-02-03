@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sharing Research Tips (like YouTube  videos)"
+title:  "Sharing Research Tips (like YouTube videos)"
 date:   2017-01-13 19:12:29 -0700
 excerpt: 
 tags: [tinkering, online learning, jekyll, material design]
