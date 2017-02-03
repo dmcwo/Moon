@@ -2,7 +2,7 @@
 layout: presentation
 title: "Moving Toward Student-Centered Learning with Collaborative Technologies"
 date: 2009-02-26
-copresenters: Lauren Shawl
+presenters: Lauren Shawl and Doug Worsham
 meetingname: Symposium for Teaching and Learning Excellence
 meetingurl: http://www.minds.wisconsin.edu/handle/1793/35054?show=full
 place: Madison, WI
