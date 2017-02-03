@@ -3,7 +3,7 @@ layout: presentation
 title: "Bring Community to Class with Instant Documentaries"
 date: 2004-04-02
 hidedayindate: true
-copresenters: 
+presenters: Doug Worsham
 meetingname: Teaching English to Speakers of Other Languages (TESOL)
 meetingurl: 
 place: Long Beach, CA
