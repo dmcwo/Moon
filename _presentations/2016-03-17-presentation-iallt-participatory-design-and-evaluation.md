@@ -2,7 +2,7 @@
 layout: presentation
 title: "Participatory Design & Learning Space Evaluation"
 date: 2016-03-17
-copresenters: 
+presenters: Doug Worsham
 meetingname: International Association for Language Learning & Technology Webinar Series
 meetingurl: http://www.iallt.org/page-1843136
 place: Online Webinar
