@@ -32,3 +32,7 @@
 pre {
     white-space: pre-wrap;
 }
+
+.breadcrumbs a {
+    text-decoration: none;
+}
