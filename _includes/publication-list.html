@@ -1,0 +1,38 @@
+<div class="post-list"> <!--keeping the same style for now-->
+    {% for publication in site.publications reversed %}
+        <ul>
+            <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                <a class="zoombtn" href="{{ site.url }}{{ publication.url }}">{{ publication.title }}</a>
+                <p>
+                {% if publication.hidedayindate %}
+                                {{ publication.date | date: '%B, %Y' | append: ". " }}
+                {% else %}
+                                {{ publication.date | date: '%B %d, %Y' | append: ". "}}
+                {% endif %}
+
+                {% if publication.meetingname %}
+                                {{ publication.meetingname | append: ". " }}
+                {% endif %}
+                            {% if publication.place %}
+                                {{ publication.place | append: ". " }}
+                {% endif %}
+                {% if publication.copresenters %}
+                                {{ publication.copresenters | prepend: "With: " | append: "."}}
+                {% endif %}
+                </p>
+                <p>
+                             {% if publication.slideurl %}
+                                <a href="{{ publication.slideurl }}" class="btn zoombtn"><i class="fa fa-picture-o" aria-hidden="true"></i> Slides</a>
+                             {% endif %}
+                             {% if publication.handouturl %}
+                             <a href="{{ publication.handouturl }}" class="btn zoombtn"><i class="fa fa-file-text-o" aria-hidden="true"></i> Handout</a>
+                             {% endif %}
+                             {% if publication.meetingurl %}
+                                <a href="{{ publication.meetingurl }}" class="btn zoombtn"><i class="fa fa-calendar" aria-hidden="true"></i> Event Page</a>
+                             {% endif %}
+                             <a href="{{ site.url }}{{ publication.url }}" class="btn zoombtn">More information ></a>
+                </p>
+            </li>
+        </ul>
+    {% endfor %}
+</div>
