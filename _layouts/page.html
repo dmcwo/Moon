@@ -15,13 +15,16 @@ layout: compress
     <header class="header" role="banner">
         <div class="wrapper animated fadeIn">
             <div class="content">
+                <div class="breadcrumbs">
+                        <a class="" href="{{site.url}}"> {{ site.home_icon }} home</a> / <a class="" href="{{site.url}}/about/">{{ site.about_icon }} about</a> /
+                </div>
                 <div class="post-title {% if page.feature %} feature {% endif %}">
                     <h1>{{ page.title }}</h1>
-                    <a class="btn zoombtn" href="{{site.url}}">
-                        <i class="fa fa-chevron-left"></i>
-                    </a>
                 </div>
                 {{ content }}
+                <center>
+                {% include item-footer-nav.html %}
+                </center>
             </div>
         </div>
         {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
