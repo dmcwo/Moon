@@ -3,7 +3,7 @@ layout: presentation
 title: "Writing, Searching, Thinking, Learning: Cross-Training Peer Research and Writing Tutors to Maximize Student Success"
 date:   2014-05-10
 feature: 
-copresenters: Julia Glassman and Christine Holten
+presenters: "Julia Glassman, Christine Holten, and Doug Worsham"
 slideurl: 
 handouturl: 
 place: Grand Rapids, MI
