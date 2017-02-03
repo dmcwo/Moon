@@ -9,8 +9,7 @@ pubname: "Reference Services Review"
 volume: 45
 issue: 2
 pages: pages-tbd
-doi: doi-tbd
-url: url-tbd
+doi: 
 apa: |
     citation-citation-citation
 ---
