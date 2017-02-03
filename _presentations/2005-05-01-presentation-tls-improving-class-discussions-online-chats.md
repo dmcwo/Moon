@@ -3,7 +3,7 @@ layout: presentation
 title: "Confidence, Quality and Quantity: Improving Class Discussions with Online Chats"
 date: 2005-05-01
 hidedayindate: true
-copresenters: 
+presenters: Doug Worsham
 meetingname: UW Madison Teaching & Learning Symposium
 meetingurl: 
 place: Madison, WI
