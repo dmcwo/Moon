@@ -5,6 +5,7 @@ date: 04-01-2017
 authors: "Julia Glassman and Doug Worsham"
 abstract: |
     
+pubname: "Reference Services Review"
 volume: 45
 issue: 2
 pages: pages-tbd
