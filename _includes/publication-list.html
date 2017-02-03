@@ -4,11 +4,15 @@
             <li class="wow fadeInLeft" data-wow-duration="1.5s">
                 <a class="zoombtn" href="{{ site.url }}{{ publication.url }}">{{ publication.title }}</a>
                 <p>
-                {% if publication.hidedayindate %}
-                                {{ publication.date | date: '%B, %Y' | append: ". " }}
-                {% else %}
-                                {{ publication.date | date: '%B %d, %Y' | append: ". "}}
+                {% if publication.authors %}
+                       {{ publication.authors | append: "."}}
                 {% endif %}
+                
+                {% if publication.date %}
+                    {{ publication.date | date: '%Y' | prepend: "(" | append: "). " }}
+                {% endif %}
+
+                <a href="{{ site.url }}{{ publication.url }}">{{ publication.title }}</a>. 
 
                 {% if publication.pubname %}
                                 {{ publication.pubname | append: ". " }}
@@ -16,9 +20,7 @@
                             {% if publication.volume %}
                                 {{ publication.volume | append: ". " }}
                 {% endif %}
-                {% if publication.authors %}
-                                {{ publication.authors | append: "."}}
-                {% endif %}
+                
                 </p>
                 <p>
                              {% if publication.doi %}
