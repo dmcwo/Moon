@@ -19,32 +19,38 @@ layout: compress
                         <a class="" href="{{site.url}}"> {{site.home_icon}} home</a> / <a class="" href="{{site.url}}/publications/">{{site.publications_icon}} publications</a> /
                     </div>
                 <div class="post-title {% if page.feature %} feature {% endif %}">
-                    <h1>{{ page.title }}</h1>
-                    <h2>
-                        {% if page.hidedayindate %}
-                            {{ page.date | date: '%B, %Y' }}
-                        {% else %}
-                            {{ page.date | date: '%B %d, %Y' }}
-                        {% endif %}
-                    </h2>
+                </div>
+                <h1>{{ page.title }}</h1>
                     <p>
+                    {% if page.authors %}
+                        {{ page.authors }}
+                    {% endif %}
                     {% if page.pubname %}
-                        {{ page.meetingname | append: ". "}}
+                        {{ page.pubname | append: ". "}}
                     {% endif %}
                     {% if page.volume %}
-                        {{ page.place | append: ". " }}
+                        {{ page.volume | prepend: "Volume: " | append: ". " }}
                     {% endif %}
+                     {% if page.issue %}
+                        {{ page.issue | prepend: "Issue: " | append: ". " }}
+                    {% endif %}
+                    {% if page.hidedayindate %}
+                            {{ page.date | date: '%B, %Y' }}
+                    {% else %}
+                          {{ page.date | date: '%B %d, %Y' }}
+                    {% endif %} 
                     </p>
-                    {% if page.authors %}
-                        <p><em>{{ page.authors }}</em></p>
-                    {% endif %}
+                    <p>
+                    
+
+                    </p>
+
                     
                     <p>
                     {% if page.doi %}
                         <a href="{{ page.slideurl }}" class="btn zoombtn"><i class="fa fa-link" aria-hidden="true"></i> Permalink/DOI</a>
                     {% endif %}
                     </p>
-                </div>
 
                 {% if page.abstract %}
                     <h3>Abstract</h3>
