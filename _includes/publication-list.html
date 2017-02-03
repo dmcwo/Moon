@@ -4,8 +4,10 @@
             <li class="wow fadeInLeft" data-wow-duration="1.5s">
                 <!--<a class="zoombtn" href="{{ site.url }}{{ publication.url }}">{{ publication.title }}</a>-->
                 <p>
-                {% if publication.authors %}
-                       {{ publication.authors | append: "."}}
+                {% if publication.authors-apa %}
+                       {{ publication.authors-apa | append: "."}}
+                    {% elsif publication.authors %}
+                        {{ publication.authors | append: "."}}
                 {% endif %}
                 
                 {% if publication.date %}
