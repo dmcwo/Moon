@@ -20,10 +20,10 @@ layout: compress
                     </div>
                 <div class="post-title {% if page.feature %} feature {% endif %}">
                 </div>
-                <h1>{{ page.title }}</h1>
+                <h2>{{ page.title }}</h2>
                     <p>
                     {% if page.authors %}
-                        {{ page.authors }}
+                        {{ page.authors | append: ". "}}
                     {% endif %}
                     {% if page.pubname %}
                         {{ page.pubname | append: ". "}}
@@ -35,9 +35,9 @@ layout: compress
                         {{ page.issue | prepend: "Issue: " | append: ". " }}
                     {% endif %}
                     {% if page.hidedayindate %}
-                            {{ page.date | date: '%B, %Y' }}
+                            {{ page.date | date: '%B, %Y' | append: ". "}}
                     {% else %}
-                          {{ page.date | date: '%B %d, %Y' }}
+                          {{ page.date | date: '%B %d, %Y' | append: ". "}}
                     {% endif %} 
                     </p>
                     
