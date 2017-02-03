@@ -2,7 +2,7 @@
 layout: presentation
 title: "Podcast Polyglots: Language Faculty Speak Beyond the Borders of the Campus"
 date: 2006-11-07
-copresenters: Ron Cramer
+presenters: Ron Cramer and Doug Worsham
 meetingname: CIC Learning Technology Group Conference
 meetingurl: 
 place: Minneapolis, MN.
