@@ -2,7 +2,7 @@
 layout: presentation
 title: "Social Networking and Remix Culture"
 date: 2007-05-30
-copresenters: 
+presenters: Doug Worsham
 meetingname: UW Madison Teaching & Learning Symposium
 meetingurl: 
 place: Madison, WI
