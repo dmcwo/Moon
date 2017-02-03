@@ -3,7 +3,7 @@ layout: presentation
 title: "Unrehearsed Communication in Low Level ESL Classrooms"
 date: 2002-05-03
 hidedayindate: true
-copresenters:
+copresenters: Doug Worsham
 meetingname: San Francisco State University MA TESOL Conference
 meetingurl: 
 place: San Francisco, CA
