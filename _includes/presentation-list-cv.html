@@ -20,7 +20,7 @@
                                 {{ presentation.place | append: ". " }}
                 {% endif %}
                 {% if presentation.copresenters %}
-                                {{ presentation.copresenters | prepend: "With: " | append: "."}}
+                                {{ presentation.presenters | append: "."}}
                 {% endif %}
                              {% if presentation.slideurl %}
                                 <a style="text-decoration: none;" href="{{ presentation.slideurl }}"><i class="fa fa-picture-o" aria-hidden="true"></i> Slides</a>
