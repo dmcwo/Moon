@@ -39,6 +39,9 @@ collections:
     presentations:
         output: true
         permalink: /presentations/:path/
+    publications:
+        output: true
+        permalink: /publications/:path/
 
 
 
