@@ -2,7 +2,7 @@
 layout: presentation
 title: "Blogs, Wikis, and Podcasts: Personal Authoring Technologies Enrich Communication and Expression for You and Your Students"
 date: 2007-10-23
-presenters: Blaire Bundy, Ron Cramer, and Doug Worsham
+presenters: "Blaire Bundy, Ron Cramer, and Doug Worsham"
 meetingname: EDUCAUSE 2007 Annual Conference
 meetingurl: http://www.educause.edu/annual-conference/2007/seminar-03f-blogs-wikis-and-podcasts-personal-authoring-technologies-enrich-communication-and-expressi
 place: Seattle, WA
