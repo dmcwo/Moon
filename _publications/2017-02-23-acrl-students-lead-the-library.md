@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Community Collections: Nurturing Student Curators"
-date: 01-23-2017
+date: 2017-01-23
 authors: "Julia Glassman, Simon Lee, Danielle Salomon, and Doug Worsham"
 authors-apa: "Glassman, J., Lee, S., Salomon, D., Worsham, D."
 abstract: |
