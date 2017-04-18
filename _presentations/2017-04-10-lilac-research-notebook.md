@@ -23,5 +23,5 @@ permalink: presentations/lilac-digital-research-notebook/
 
 
 ### Slides
-<iframe src="https://docs.google.com/presentation/d/1p6VOVlmERKJN55f_A9GzMoqI5jooHai7O1GuCBCIQsY/embed?start=false&loop=true&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1p6VOVlmERKJN55f_A9GzMoqI5jooHai7O1GuCBCIQsY/embed?start=false&loop=true&delayms=60000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
