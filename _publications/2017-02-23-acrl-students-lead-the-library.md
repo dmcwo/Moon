@@ -18,8 +18,3 @@ doi: http://www.worldcat.org/oclc/971333311
 apa: |
     In Arnold-Garza, S., & In Tomlinson, C. (2017). Students lead the library: The importance of student contributions to the academic library.
 ---
-Coming soon.
-
-Chapter 5: Community Collections: Nurturing Student Curators in Arnold-Garza, S., & In Tomlinson, C. (2017). [Students lead the library: The importance of student contributions to the academic library.](http://www.worldcat.org/oclc/971333311)
-
-Sara Arnold-Garza and Carissa Tomlinson (editors)
