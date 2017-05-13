@@ -69,6 +69,15 @@ permalink: /about/cv/
 
 * Taught high-intermediate academic reading and writing, an integrated skills course for beginners as well as English for the World Wide Web and Grammar for Written Expression.
 
+## Publications
+
+* Glassman, J. and Worsham, D. (2017). [Digital Research Notebook: A Simple Tool for Reflective Learning](http://dx.doi.org/10.1108/RSR-10-2016-0063). Reference Services Review. 45.
+* Glassman, J., Lee, S., Salomon, D., Worsham, D. (2017). [Community Collections: Nurturing Student Curators](http://www.worldcat.org/oclc/971333311). Students lead the library : the importance of student contributions to the academic library.
+
+## Conference Presentations 
+
+{% include presentation-list-cv.html %}
+
 ## Community Building, Committee Service, Projects, and Strategic Leadership
 
 ### Association of College and Research Libraries (ACRL)
@@ -84,6 +93,7 @@ permalink: /about/cv/
 * Hiring Committee. Director, Undergraduate Research Center, Humanities, Arts, and Social Sciences. Summer 2013.
 
 ### UCLA Library
+* Hiring Committee. Health and Life Sciences Librarian, UCLA Library. Member. November, 2016.
 * Hiring Committee. Lead for Emerging Literacies, UCLA Library. Chair. March 2016 - July 2016.
 * Strategic Planning Steering Committee. Member. May 2015 - March 2016
 * Strategic Planning - Teaching & Learning Working Group. Lead. June 2015 - March 2016.
@@ -122,9 +132,6 @@ An introduction to the research process in the digital age, offering opportuniti
 
 In this Digital Humanities capstone course, students worked collaboratively to create a prototype for the interactive online web presence for the Lyrical Map of the Concept of Los Angeles and present their work and learning at the Digital Humanities Capstone Showcase. (See Appendix A).
 
-## Conference Presentations 
-
-{% include presentation-list-cv.html %}
 
 ## Selected workshops Taught
 
