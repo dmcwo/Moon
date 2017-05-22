@@ -37,3 +37,6 @@ pre {
     text-decoration: none;
 }
 
+.content p {
+    font-size: 18px;
+}
