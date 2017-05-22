@@ -221,15 +221,16 @@ header .entry-meta {
     }
 }
 
-.post-title {
-    font-family: $font3;
-}
 
 .title {
     font-family: $font3;
 }
 
 h1, h2, h3, h4, h5, h6, h7 {
+    font-family: $font1;
+}
+
+.post-title {
     font-family: $font3;
 }
 
