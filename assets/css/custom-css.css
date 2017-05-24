@@ -40,3 +40,9 @@ pre {
 .content p {
     font-size: 18px;
 }
+
+.title p {
+    font-size:2rem;
+    font-weight:300;
+    font-family: 'Barrio', cursive;
+}
