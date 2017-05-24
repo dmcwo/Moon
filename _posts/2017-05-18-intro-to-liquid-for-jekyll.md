@@ -13,7 +13,7 @@ If you're new to jekyll, or if you have been fumbling along like me for a while,
 
 ### What is Liquid?
 
-A sensible place to start! Liquid describes itself as an "open-source template language"[^fn-liquid].
+Liquid describes itself as an "open-source template language"[^fn-liquid].
 
 In the context of jekyll, this means that Liquid enables you to use little bits of code, like ``` {% raw %} {{ page.title }} {% endraw %} ```, to display content and information about your site, in this case, the title of a page. So, for example, if I add the code ``` {% raw %} {{ page.title }} {% endraw %} ``` to the code on this page, I will get the title of this page: *{{ page.title }}*.
 
