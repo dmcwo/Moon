@@ -15,7 +15,7 @@ permalink: /about/cv/
 * Program Track Immersion. Association of College & Research Libraries. July 2013.
 * Participatory Design Workshop. Council on Library and Information Resources. February, 2013.
 * Project Leadership Communication. University of Wisconsin Madison Executive Education. Madison, WI. 2009.
-* Learning Technology Leadership Program. EDUCAUSE. Madison, WI. 2008.
+* Learning Technology Leadership Institute. EDUCAUSE. Madison, WI. 2008.
 
 ## Awards
 
@@ -25,11 +25,11 @@ permalink: /about/cv/
 
 ### UCLA Library
 
-#### Lead for Teaching & Learning. 2016-present.
+#### Interim Dir. Teaching & Learning Services. 2016-2017.
 #### Teaching & Learning Services Coordinator. 2012-2016.
 
 * Lead enterprise-wide projects designed to improve instructional services, assessment tools, and the library user experience for all learners and researchers at UCLA.
-* Provide strategic leadership and planning, most recently through the collaborative development of the UCLA Library Strategic Plan for Teaching & Learning.
+* Provide strategic leadership and planning, including the leading the collaborative development of the UCLA Library Strategic Plan for Teaching & Learning.
 * Provide vision, direction, and supervision for online learning efforts, with the goal of creating more sustainable approaches to information literacy and research skills instruction at the scale of the research institution.
 * Redesign library spaces and services, including the UCLA Library Inquiry Labs and the Powell Library research assistance service model.
 * Consult with faculty, teaching assistants, and library staff on research and writing assignment design and instructional approaches.
@@ -85,24 +85,27 @@ permalink: /about/cv/
 * Undergraduate Librarian’s Discussion Group. Convener. 2014-2016.
 
 ### UCLA
+* WI+RE (Writing Instruction + Research Education). Lead and Co-Founder.
+* Undergraduate Research Week Planning Committee. Member.
 * Steering Committee for Onling Teaching & Learning.  Member.
 * Office of Residential Life Academic Development Committee. Member.
 * Instructional Media Lab Task Force. Convened by Associate Vice Provost Larry Loeher. November 2014 – February 2015.
-* Writing Committee. Convened by Dean David Schaberg. November 2014-November 2015.
+* Writing Committee. Convened by Dean David Schaberg. Member. November 2014-November 2015.
 * Office of Residential Life Academic Development Committee. Fall 2012 – present.
 * Hiring Committee. Director, Undergraduate Research Center, Humanities, Arts, and Social Sciences. Summer 2013.
 
 ### UCLA Library
+* Undergraduate Research Week Poster Printing Award Program. Lead and Founder. 2016-present.
 * Hiring Committee. Health and Life Sciences Librarian, UCLA Library. Member. November, 2016.
-* Hiring Committee. Lead for Emerging Literacies, UCLA Library. Chair. March 2016 - July 2016.
+* Hiring Committee. Lead for Emerging Literacies, UCLA Library. Hiring Manager. March 2016 - July 2016.
 * Strategic Planning Steering Committee. Member. May 2015 - March 2016
 * Strategic Planning - Teaching & Learning Working Group. Lead. June 2015 - March 2016.
 * Teaching & Learning Services Leadership Group. Chair. May 2014-August 2016.
 * Library - CCLE (Common Collaborative Learning Environment) Bridge Team. October 2013 – March 2015.
 * UCLA Library Common Content Team. Co-chair. May 2014 - September 2014.
 * Stressbusters Team. Fall 2012 – Spring 2014.
-* UCLA Library First Year Experience Team. Co-chair. June 2013 - March 2016.
-* TLS Online Learning Working Group. Lead. May 2013 – March 2016.
+* UCLA Library First Year Experience Team. Co-chair and Founder. June 2013 - March 2016.
+* TLS Online Learning Working Group. Lead and Founder. May 2013 – March 2016.
 * Stressbusters Team. Chair. Spring 2013-Spring 2014.
 * Evaluation to Value Team. Co-chair. February 2013-present.
 * Topics in Teaching & Learning Workshop Series. Lead. February 2013 - March 2016.
@@ -111,6 +114,10 @@ permalink: /about/cv/
 * Hiring Committee. CLICC/DIIT Programmer/Analyst. Member. October, 2012 - February 2013.
 * Public Services Council. September 2012 – present.
 * Powell Technology Project Team (Digital Signage and Exhibits). September 2012 – March 2013.
+
+### UC-AFT
+
+Member at Large for UCLA Local Chapter of Unit 17.
 
 ### University of Wisconsin - Madison 
 * ComETS (Community of Education Technology Support at UW-Madison). Chair - Steering Committee - 2011-2012. Steering Committee Member and Chair - Membership and Community Team - 2009-2011.
@@ -123,6 +130,10 @@ permalink: /about/cv/
 * Engage Technology Enhanced Collaborative Group Work Award. 2008-2009, Support Team.
 
 ## UCLA Credit Courses Taught
+
+### English Composition 100W - Interdisciplary Academic Writing. Co-taught with Margarita Nakpaktitis and Laurel Westrup.
+
+Immersive research and writing course designed for the Mellon Mays Summer Program for Visiting Fellows. New course and curriculum design focused on an integrated approach to the research and writing process.
 
 ### Honors 101I: Research Today, Sources, Tools, and Strategies. Co-taught with Margarita Nakpaktitis. Winter 2013, 2014, 2015.
 
@@ -149,21 +160,29 @@ In this Digital Humanities capstone course, students worked collaboratively to c
 
 ## Online Learning and Multimedia
 
-### Online Modules
+### Online Learning Modules
+
+[Cornerstone Research Workshops Online](https://ccle.ucla.edu/course/view/wire?section=1) - Project Lead for design and development of 6 online research and writing skills workshops.
+
+[Strategies for Research and Writing](https://uclalibrary.github.io/research-tips/) (web platform for sharing online tutorials). Design and development.
+
+[Turn Questions into Keywords](https://uclalibrary.github.io/research-tips/turn-questions-into-keywords/). HTML5 animation.
 
 Mapping Your Research Ideas. With Renee Romero and Emily Appleton. [YouTube](http://youtube.com/watch?v=jj-F6YVtsxI) 
 
-### Research Guides
+### Research Guide Redesigns
 
-[Disability Studies](guides.library.ucla.edu/disability-studies/). 
+[Food Studies](http://guides.library.ucla.edu/food)
+
+[Disability Studies](http://guides.library.ucla.edu/disability-studies/). 
 
 [General Education Cluster 21: History of Modern Thought](http://guides.library.ucla.edu/ge21) - includes dynamic timeline of Modern Thought authors with links to encyclopedia entries as well as a visual slideshow of early editions of course readings found at the Clark Library. (See Appendix D).
 
 ### Exhibits
 
-UCLA Student Travel Photography Exhibit for International Education Week.
+UCLA Student Travel Photography Exhibit for International Education Week. Curator for travel guides component of the exhibit.
 
-Created, designed, and developed: Beat 101 Digital Exhibit for iPad. Powell Rotunda. Spring 2013. (Content curation and related physical exhibit by Susan Anderson.) (See Appendix E).
+Beat 101 Digital Exhibit for iPad. Powell Rotunda. Spring 2013.
 
 ### Academic Podcast Production
 
