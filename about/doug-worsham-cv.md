@@ -144,20 +144,6 @@ An introduction to the research process in the digital age, offering opportuniti
 In this Digital Humanities capstone course, students worked collaboratively to create a prototype for the interactive online web presence for the Lyrical Map of the Concept of Los Angeles and present their work and learning at the Digital Humanities Capstone Showcase. (See Appendix A).
 
 
-## Selected workshops Taught
-
-* Memorable, Meaningful, Transformative Learning. With Julia Glassman. March 31, 2016.
-* Mapping the Learning Landscape - A hands-on workshop in mapping the curriculum, defining learning pathways, and planning for strategic instructional engagement. 10/16/14.
-* Journal Club – Let’s talk about recent research in teaching, learning, and libraries. 3/20/14.
-* Reference and Research Assistance. With Allison Benedetti. 2/20/14.
-* Highlights of ACRL Program Track Immersion. 8/15/13.
-* Drupal/Wordpress – Open Source Platforms for Creating Websites. 8/7/13.
-* Overview of Improvements to SIA & Stats. With Allison Benedetti. 7/18/13.
-* Leveraging Your Instructional Feedback. 6/20/13.
-* Pair Work, Group Work, What Works?!. 2/21/13.
-* Peer Observation and Feedback. With Margarita Nafpaktitis. 11/6/12 & 11/12/12.
-* Drupal Start Kit – a series of meetings designed to give library, DIIT, and digital library staff a foundation in Drupal site development. Feb – July 2014.
-
 ## Online Learning and Multimedia
 
 ### Online Learning Modules
@@ -177,12 +163,6 @@ Mapping Your Research Ideas. With Renee Romero and Emily Appleton. [YouTube](htt
 [Disability Studies](http://guides.library.ucla.edu/disability-studies/). 
 
 [General Education Cluster 21: History of Modern Thought](http://guides.library.ucla.edu/ge21) - includes dynamic timeline of Modern Thought authors with links to encyclopedia entries as well as a visual slideshow of early editions of course readings found at the Clark Library. (See Appendix D).
-
-### Exhibits
-
-UCLA Student Travel Photography Exhibit for International Education Week. Curator for travel guides component of the exhibit.
-
-Beat 101 Digital Exhibit for iPad. Powell Rotunda. Spring 2013.
 
 ### Academic Podcast Production
 
@@ -204,3 +184,28 @@ Beat 101 Digital Exhibit for iPad. Powell Rotunda. Spring 2013.
 #### [Codecademy](https://www.codecademy.com/dmcwo#completed)
 *  [Deploy a Website](https://www.codecademy.com/learn/deploy-a-website) using Jekyll and Github pages. May 31, 2016.
 * [Learn Git](https://www.codecademy.com/learn/learn-git). June 1, 2016.
+
+
+## Selected workshops taught
+
+* Memorable, Meaningful, Transformative Learning. With Julia Glassman. March 31, 2016.
+* Mapping the Learning Landscape - A hands-on workshop in mapping the curriculum, defining learning pathways, and planning for strategic instructional engagement. 10/16/14.
+* Journal Club – Let’s talk about recent research in teaching, learning, and libraries. 3/20/14.
+* Reference and Research Assistance. With Allison Benedetti. 2/20/14.
+* Highlights of ACRL Program Track Immersion. 8/15/13.
+* Drupal/Wordpress – Open Source Platforms for Creating Websites. 8/7/13.
+* Overview of Improvements to SIA & Stats. With Allison Benedetti. 7/18/13.
+* Leveraging Your Instructional Feedback. 6/20/13.
+* Pair Work, Group Work, What Works?!. 2/21/13.
+* Peer Observation and Feedback. With Margarita Nafpaktitis. 11/6/12 & 11/12/12.
+* Drupal Start Kit – a series of meetings designed to give library, DIIT, and digital library staff a foundation in Drupal site development. Feb – July 2014.
+
+## Exhibits
+
+UCLA Student Travel Photography Exhibit for International Education Week. Curator for travel guides component of the exhibit.
+
+Beat 101 Digital Exhibit for iPad. Powell Rotunda. Spring 2013.
+
+## Collections
+
+[Science and Scholarship of Teaching and Learning e-Book Collection](guides.library.ucla.edu/ebooks/collections/learning). Created a Community Collection partnership between The Academic Advancement Program, Center for Education Innovation and Learning in the Sciences, and the Undergraduate Research Centers. Collaborated with collection partners to create the initial collection. Created research guide with assistance from Scott Martin.
