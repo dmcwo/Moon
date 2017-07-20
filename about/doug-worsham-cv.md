@@ -33,7 +33,7 @@ permalink: /about/cv/
 * Provide vision, direction, and supervision for online learning efforts, with the goal of creating more sustainable approaches to information literacy and research skills instruction at the scale of the research institution.
 * Redesign library spaces and services, including the UCLA Library Inquiry Labs and the Powell Library research assistance service model.
 * Consult with faculty, teaching assistants, and library staff on research and writing assignment design and instructional approaches.
-* Teach research and information literacy skills in full-length courses and targetted instructional engagements through face-to-face, hyrbid, and online approaches.
+* Teach research and information literacy skills in full-length courses and targeted instructional engagements through face-to-face, hyrbrid, and online approaches.
 
 <!-- website redesign, Strategic Planning, teaching, outreach and FYE, online learning, Foster community-based leadership for library instructional services. -->
 
