@@ -39,9 +39,9 @@ permalink: /about/cv/
 
 ### L&S Learning Support Services, University of Wisconsin - Madison.
 
-#### Senior Instructional Consulting Coordinator / AV Services Manager. 2010-2012.
+#### Senior Instructional Consulting Coordinator and AV Services Manager. 2010-2012.
 
-#### Foreign Language Technologist / AV Services Coordinator. 2004-2010.
+#### Foreign Language Technologist and AV Services Coordinator. 2004-2010.
 
 * Coordinated the instructional technology consulting team of 10 full time and 2 half time staff. Supervised and mentored the Learning Technology Teaching Assistant, 2 Social Media Interns, and 1 Web Services Intern.
 * Consulted on the effective integration of learning technologies for face to face, hybrid, and online courses.
@@ -87,7 +87,7 @@ permalink: /about/cv/
 ### UCLA
 * WI+RE (Writing Instruction + Research Education). Lead and Co-Founder.
 * Undergraduate Research Week Planning Committee. Member.
-* Steering Committee for Onling Teaching & Learning.  Member.
+* Steering Committee for Online Teaching & Learning.  Member.
 * Office of Residential Life Academic Development Committee. Member.
 * Instructional Media Lab Task Force. Convened by Associate Vice Provost Larry Loeher. November 2014 – February 2015.
 * Writing Committee. Convened by Dean David Schaberg. Member. November 2014-November 2015.
@@ -141,10 +141,12 @@ An introduction to the research process in the digital age, offering opportuniti
 
 ### Digital Humanities 199/299: Directed Research & Special Projects in Digital Humanities – Mapping Cultural Los Angeles. Co-taught with Kelly Miller. Spring 2013.
 
-In this Digital Humanities capstone course, students worked collaboratively to create a prototype for the interactive online web presence for the Lyrical Map of the Concept of Los Angeles and present their work and learning at the Digital Humanities Capstone Showcase. (See Appendix A).
+In this Digital Humanities capstone course, students worked collaboratively to create a prototype for the interactive online web presence for the Lyrical Map of the Concept of Los Angeles and present their work and learning at the Digital Humanities Capstone Showcase.
 
 
 ## Online Learning and Multimedia
+
+<!-- should include website design section? with Madison work?-->
 
 ### Online Learning Modules
 
@@ -162,7 +164,7 @@ Mapping Your Research Ideas. With Renee Romero and Emily Appleton. [YouTube](htt
 
 [Disability Studies](http://guides.library.ucla.edu/disability-studies/). 
 
-[General Education Cluster 21: History of Modern Thought](http://guides.library.ucla.edu/ge21) - includes dynamic timeline of Modern Thought authors with links to encyclopedia entries as well as a visual slideshow of early editions of course readings found at the Clark Library. (See Appendix D).
+[General Education Cluster 21: History of Modern Thought](http://guides.library.ucla.edu/ge21) - includes dynamic timeline of Modern Thought authors with links to encyclopedia entries as well as a visual slideshow of early editions of course readings found at the Clark Library.
 
 ### Academic Podcast Production
 
@@ -188,6 +190,7 @@ Mapping Your Research Ideas. With Renee Romero and Emily Appleton. [YouTube](htt
 
 ## Selected workshops taught
 
+* [Common Threads of Healthy Discontent about Assessment](http://dmcwo.com/presentations/LAUC-Conference-Round-up-2). LAUC Conference Round-up. May 31, 2017.
 * Memorable, Meaningful, Transformative Learning. With Julia Glassman. March 31, 2016.
 * Mapping the Learning Landscape - A hands-on workshop in mapping the curriculum, defining learning pathways, and planning for strategic instructional engagement. 10/16/14.
 * Journal Club – Let’s talk about recent research in teaching, learning, and libraries. 3/20/14.
