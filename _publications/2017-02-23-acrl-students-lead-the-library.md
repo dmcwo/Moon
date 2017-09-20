@@ -14,7 +14,10 @@ pubname: "Students lead the library : the importance of student contributions to
 volume: 
 issue: 
 pages: pages-tbd
-doi: http://www.worldcat.org/oclc/971333311
+doi: http://escholarship.org/uc/item/39r4c4nf
 apa: |
     In Arnold-Garza, S., & In Tomlinson, C. (2017). Students lead the library: The importance of student contributions to the academic library.
 ---
+### Links
+Book: http://www.worldcat.org/oclc/971333311 
+Book Chapter: http://escholarship.org/uc/item/39r4c4nf
