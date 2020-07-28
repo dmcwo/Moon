@@ -220,3 +220,40 @@ header .entry-meta {
         background-position: center center;
     }
 }
+
+
+.title {
+    font-family: $font3;
+}
+
+h1, h2, h3, h4, h5, h6, h7 {
+    font-family: $font3;
+}
+
+.post-title {
+    font-family: $font3;
+}
+
+h1 {
+    font-size: 3.2em;
+}
+
+h2 {
+    font-size: 2.5em;
+}
+
+h3 {
+    font-size: 2em;
+}
+
+h4 {
+    font-size: 1.75em;
+}
+
+h5 {
+    font-size: 1.25em;
+}
+
+h6 {
+    font-size: .75em;
+}

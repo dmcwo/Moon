@@ -15,6 +15,9 @@ layout: compress
     <header class="header" role="banner">
         <div class="wrapper animated fadeIn">
             <div class="content">
+                <div class="breadcrumbs">
+                        <a class="" href="{{site.url}}"> {{ site.home_icon }} home</a> / <a class="" href="{{site.url}}/posts/">{{ site.notes_icon }} notes</a> /
+                    </div>
                 <div class="post-title {% if page.feature %} feature {% endif %}">
                     <h1>{{ page.title }}</h1>
                     <h4>{{ page.date | date_to_string }}</h4>
@@ -24,18 +27,18 @@ layout: compress
                       {% include read-time.html %}
                     </p><!-- /.entry-reading-time -->
                     {% endif %}
-                    {% if page.project %}
-                    <a class="btn zoombtn" href="{{site.url}}/projects/">
-                    {% else %}
-                    <a class="btn zoombtn" href="{{site.url}}/posts/">
-                    {% endif %}
-                        <i class="fa fa-chevron-left"></i>
-                    </a>
+                    
                 </div>
                 {{ content }}
                 <div class="entry-meta">
                 {% include meta.html %}
                 </div>
+                <div>
+                    {% include prev-next-nav.html %}
+                </div>
+                <center>
+                    {% include item-footer-nav.html %}
+                </center>
             </div>
         </div>
         {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}

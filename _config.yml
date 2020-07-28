@@ -1,14 +1,22 @@
 # Site
-title:              Notebook
-bio:                'Mostly a place to jot things down.'
-description:        "Mostly a place to jot things down."
+title:              dmcwo&#39;s notebook
+bio:                'a place to tinker and jot things things down'
+description:        "a place to tinker and jot things things down"
 reading_time:       true
-words_per_minute:   200
+words_per_minute:   150
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+# Notebook icon by Bruno Castro from the Noun Project
+# background:         'assets/img/placeholder-big-disc.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://dmcwo.github.io/Notebook-Moon/
+
+# icons
+home_icon:          '<i class="fa fa-home" aria-hidden="true"></i>'
+about_icon:         '<i class="fa fa-info-circle" aria-hidden="true"></i>'
+notes_icon:         '<i class="fa fa-sticky-note" aria-hidden="true"></i>'
+presentations_icon: '<i class="fa fa-lightbulb-o" aria-hidden="true"></i>'
+publications_icon:  '<i class="fa fa-paper-plane-o" aria-hidden="true"></i>'
 
 # Jekyll
 permalink:          /:title/
@@ -21,9 +29,21 @@ kramdown:
   toc_levels:       1..6
   enable_coderay:   false
 mathjax:            true
+future:             true
 sass:
   sass_dir:         _sass
   style:            compressed
+
+# Collections
+collections:
+    presentations:
+        output: true
+        permalink: /presentations/:path/
+    publications:
+        output: true
+        permalink: /publications/:path/
+
+
 
 # Comments
 # disqus_shortname:   disqus_username
@@ -38,11 +58,12 @@ sass:
   #ad-slot:
 #bing-verify:
 #email:
+orcid:              0000-0002-4945-5773
 twitter:            dmcwo
 # facebook:           username
 github:             dmcwo
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          doug-worsham
 #xing:              username
 # instagram:          username
 #lastfm:            username
@@ -62,13 +83,10 @@ github:             dmcwo
 
 # Gems
 gems:
-  - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
 
-jekyll-mentions:
-    base_url: https://github.com
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]

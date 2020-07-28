@@ -1,5 +1,5 @@
-//colors
-$bodycolor           : #D24D57;
+//colors -- prev bc: #D24D57;
+$bodycolor           : #332E2C;
 $black           	 : #000;
 $white               : #fff;
 $color_gray          : #e8e8e8;
@@ -18,7 +18,7 @@ $color_fuscous_gray  : #555;
 $color_alabaster     : #fcfcfc;
 $color_celeste       : #ccc;
 $color_pink_swan     : #bbb;
-$comp-color 	     : complement(#222); 
+$comp-color 	     : complement(#222);
 
 //button colors
 $success			 : #5cb85c;
@@ -27,8 +27,9 @@ $danger				 : #C64537;
 $info		         : #308cbc;
 
 //fonts
-$font1               : Fira Sans,sans-serif;
-$font2               : Inconsolata;
+$font1               : Raleway,Lato,Fira Sans,sans-serif; // most everything
+$font2               : Inconsolata; // code and monospace?
+$font3               : Libre Baskerville,serif; // trying for class .post-title .title h1-7 see end of site.scss
 $alt-font            : serif;
 $doc-font-size       : 16;
 $doc-line-height     : 26;

@@ -1,0 +1,39 @@
+<div class="post-list"> <!--keeping the same style for now-->
+    {% for publication in site.publications reversed %}
+        <ul>
+            <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                <!--<a class="zoombtn" href="{{ site.url }}{{ publication.url }}">{{ publication.title }}</a>-->
+                <p>
+                {% if publication.authors-apa %}
+                       {{ publication.authors-apa }}
+                    {% elsif publication.authors %}
+                        {{ publication.authors | append: "."}}
+                {% endif %}
+                
+                {% if publication.date %}
+                    {{ publication.date | date: '%Y' | prepend: "(" | append: "). " }}
+                {% endif %}
+
+                {% if publication.doi %}
+                    <a href="{{ publication.doi }}" target="_blank">{{ publication.title }}</a>. 
+                {% else %}
+                    <a href="{{ site.url }}{{ publication.url }}">{{ publication.title }}</a>.
+                {% endif %}
+
+                {% if publication.pubname %}
+                                {{ publication.pubname | append: ". " }}
+                {% endif %}
+                            {% if publication.volume %}
+                                {{ publication.volume | append: ". " }}
+                {% endif %}
+                
+                </p>
+                <p>
+                             {% if publication.doi %}
+                                <a href="{{ publication.doi }}" class="btn zoombtn"><i class="fa fa-link" aria-hidden="true"></i> Permalink/DOI</a>
+                             {% endif %}
+                </p>
+            </li>
+        </ul>
+    {% endfor %}
+</div>
